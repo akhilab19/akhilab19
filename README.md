@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Akhila%20B&fontSize=50&fontAlignY=35&desc=AI%2FML%20Engineer&descAlignY=55"/>
+  <img src="./assets/Banner.png" width="100%"/>
 </p>
 
 

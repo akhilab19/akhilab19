@@ -9,7 +9,7 @@ Previously at **Experion Technologies**, where I engineered a Zero-Trust LLM pla
 
 ## What I work on
 
-- **LLMs & RAG** — LangChain, vector databases, domain-grounded pipelines, Guardrails AI
+- **LLMs & RAG** — LangChain, vector databases, domain-grounded pipelines, Guardrails AI, NEMO Guardrails
 - **Backend & APIs** — FastAPI, PostgreSQL, JWT auth, rate limiting, modular architecture
 - **Deep Learning** — CNNs, TensorFlow, Keras, image classification, disease detection
 - **NLP** — text processing, keyword extraction, semantic similarity, SpaCy

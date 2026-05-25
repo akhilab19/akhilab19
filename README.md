@@ -1,6 +1,6 @@
 # Hi, I'm Akhila B 👋
 
-AI/ML Engineer building production-ready intelligent systems — from fine-tuned LLMs to secure inference APIs.
+AI/ML Engineer, Building Production Ready LLM Solutions, Scalable AI Applications, Predictive & Intelligent Systems with Python & Deep Learning
 
 Currently at **Fresh Minds Technologies**, building AI-driven platforms with FastAPI, JWT auth, and structured response pipelines.
 Previously at **Experion Technologies**, where I engineered a Zero-Trust LLM platform with RAG pipelines that reduced hallucinations by 40%.

@@ -13,7 +13,7 @@ Previously at **Experion Technologies**, where I engineered a Zero-Trust LLM pla
 - **Backend & APIs** — FastAPI, PostgreSQL, JWT auth, rate limiting, modular architecture
 - **Deep Learning** — CNNs, TensorFlow, Keras, image classification, disease detection
 - **NLP** — text processing, keyword extraction, semantic similarity, SpaCy
-- **Deployment** — Hugging Face Spaces, CI/CD, Docker, cloud deployment
+- **Deployment** — Hugging Face Spaces, CI/CD, cloud deployment
 
 ---
 

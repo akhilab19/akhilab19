@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Fine-tune. Evaluate. Deploy. Repeat.%20B&fontSize=50&fontAlignY=35&desc=AI%2FML%20Engineer&descAlignY=55"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Fine-tune.%20Evaluate.%20Deploy.%20Repeat.&fontSize=35&fontAlignY=45&desc=AI%20%7C%20ML%20Engineer&descAlignY=62"/>
 </p>
-
 
 # Hi, I'm Akhila B 👋
 

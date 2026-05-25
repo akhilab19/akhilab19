@@ -48,4 +48,4 @@ Previously at **Experion Technologies**, where I engineered a Zero-Trust LLM pla
 
 ---
 
-📍 Kerala &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/akhilab19) &nbsp;·&nbsp; [Hugging Face](https://huggingface.co/akhilab19) &nbsp;·&nbsp; akhilab0419@gmail.com
+📍 Kerala &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/akhilab19) &nbsp;·&nbsp; [Hugging Face]([https://huggingface.co/akhilab19](https://huggingface.co/akhila19)) &nbsp;·&nbsp; akhilab0419@gmail.com

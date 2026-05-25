@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Akhila%20B&fontSize=50&fontAlignY=35&desc=AI%2FML%20Engineer&descAlignY=55"/>
+</p>
+
+# Hi, I'm Akhila B 👋
+...rest of your README
+
+
+
 # Hi, I'm Akhila B 👋
 
 AI/ML Engineer, Building Production Ready LLM Solutions, Scalable AI Applications, Predictive & Intelligent Systems with Python & Deep Learning

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Fine-tune.%20Evaluate.%20Deploy.%20Repeat.&fontSize=35&fontAlignY=45&desc=AI%2FML%20Engineer&descAlignY=62"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Fine-tune.%20Evaluate.%20Deploy.%20Repeat.&fontSize=35&fontAlignY=45"/>
 </p>
 
 # Hi, I'm Akhila B 👋
